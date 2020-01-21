@@ -14,13 +14,13 @@ where employee_id is an employee's ID number, name is their name, months is the 
 
 **Sample Output**
 
-···
+```
 Angela
 Michael
 Todd
 Joe
 Explanation
-···
+```
 
 Angela has been an employee for 1 month and earns $3443 per month.
 
